@@ -1,0 +1,11 @@
+name: Salesforce Integration
+type: module
+description: Modules to integrate Drupal and Salesforce
+package: Salesforce
+core_version_requirement: ^9.1
+configure: salesforce.admin_config_salesforce
+
+# Information added by Drupal.org packaging script on 2021-11-03
+version: '5.0.0'
+project: 'salesforce'
+datestamp: 1635946402
